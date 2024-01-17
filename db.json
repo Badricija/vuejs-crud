@@ -1,0 +1,112 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "make": "BMW",
+      "series": "8 Series",
+      "chassis": "E31",
+      "year": "1995",
+      "engine": "V12",
+      "power": "300 hp",
+      "gearbox": "4-speed automatic",
+      "image": "https://www.bmw-m.com/content/dam/bmw/marketBMW_M/common/topics/magazine-article-pool/2019/m8-prototyp/bmw-m8-e31-prototyp-stage-teaser-03.jpg",
+      "description": "The BMW 8 Series is a luxury grand tourer produced from 1989 to 1999."
+    },
+    {
+      "id": 2,
+      "make": "BMW",
+      "series": "3 series",
+      "chassis": "E30",
+      "year": "1991",
+      "engine": "S14 Inline",
+      "power": "192  hp",
+      "gearbox": "4-speed automatic",
+      "image": "https://www.topgear.com/sites/default/files/2023/08/bmwm3e30guntherwerks.jpg",
+      "description": "The BMW E30 is a compact executive car that was produced by the German automaker BMW from 1982 to 1994. It is part of the BMW 3 Series and is widely regarded as one of the brand's iconic models. The E30 gained popularity for its combination of sporty performance, elegant design, and driving dynamics. "
+    },
+    {
+      "id": 3,
+      "make": "BMW",
+      "series": "3 Series (E36)",
+      "chassis": "E36",
+      "year": "1993",
+      "engine": "Inline-6",
+      "power": "190 hp",
+      "gearbox": "5-speed manual",
+      "image": "https://cdn.sanity.io/images/c8ihu5xk/production/724f1c8460fdae277c9242e307a7d71eec9e1aea-5908x3944.jpg",
+      "description": "The BMW 3 Series (E36) is the third generation of the 3 Series, produced from 1990 to 2000."
+    },
+    {
+      "id": 4,
+      "make": "Mercedes-Benz",
+      "series": "CE300",
+      "chassis": "W124",
+      "year": "1991",
+      "engine": "V8",
+      "power": "230 hp",
+      "gearbox": "4-speed automatic",
+      "image": "https://i.pinimg.com/originals/17/dd/dc/17dddccda709b7347332e7f1fa90876e.jpg",
+      "description": "The W124 Coupe is known for its elegant and timeless design. As part of the W124 series, it shares many features with its sedan counterpart but features a sleeker two-door body style. The W124 generation, produced from 1984 to 1996, is often praised for its build quality, safety innovations, and advanced engineering."
+    },
+    {
+      "id": 5,
+      "make": "BMW",
+      "series": "Z3",
+      "chassis": "E36/7",
+      "year": "1996",
+      "engine": "Inline-4",
+      "power": "138 hp",
+      "gearbox": "5-speed manual",
+      "image": "https://www.car-info.com/uploads/1034.jpg",
+      "description": "The BMW Z3 is a two-seater convertible and coupe produced from 1995 to 2002."
+    },
+    {
+      "id": 6,
+      "make": "Mercedes-Benz",
+      "series": "S-Class Coupe (C140)",
+      "chassis": "C140",
+      "year": "1994",
+      "engine": "V12",
+      "power": "394 hp",
+      "gearbox": "4-speed automatic",
+      "image": "https://s1.cdn.autoevolution.com/images/gallery/MERCEDES-BENZ-CL-Coupe--C140--1902_7.jpg",
+      "description": "The Mercedes-Benz S-Class Coupe (C140) is a luxury grand tourer produced from 1992 to 1999."
+    },
+    {
+      "id": 7,
+      "make": "Mercedes-benz",
+      "series": "S- class",
+      "chassis": "W126",
+      "year": "1989",
+      "engine": "V8",
+      "power": "250 hp",
+      "gearbox": "4-speed automatic",
+      "image": "https://images.classic.com/vehicles/0c26ddf0ed2984d4a029ab5556afdaf13d371253.jpg?auto=format&fit=crop&ar=16:9",
+      "description": "The W126 Coupe, also known as the SEC (S-Klasse Erweiterte Coupé), is celebrated for its classic and luxurious design. The coupe variant of the W126 series features a two-door body style, combining the elegance of a luxury sedan with a sleek coupe silhouette. These vehicles are often recognized for their high build quality, advanced safety features, and innovative technology for their time."
+    },
+    {
+      "id": 8,
+      "make": "Mercedes-Benz",
+      "series": "SLK-Class",
+      "chassis": "R170",
+      "year": "1999",
+      "engine": "Inline-4",
+      "power": "190 hp",
+      "gearbox": "5-speed manual",
+      "image": "https://i.ytimg.com/vi/id-42g2XSPk/maxresdefault.jpg",
+      "description": "The Mercedes-Benz SLK-Class is a compact luxury roadster produced from 1996 to 2004."
+    },
+    {
+      "id": 9,
+      "make": "BMW",
+      "series": "6 Series ",
+      "chassis": "E24",
+      "year": "1988",
+      "engine": "V8",
+      "power": "280 hp",
+      "gearbox": "4-speed automatic",
+      "image": "https://www.onlineclassicworld.com/sites/default/files/styles/watermark/public/advertisement/WUG933-010.jpg?itok=s71MypEM",
+      "description": "The BMW E24 featured a classic, shark-nose design, which became iconic for the era. It was a two-door coupe designed for comfortable long-distance cruising, blending sporty characteristics with a luxurious interior. The E24 was often praised for its sophisticated styling and advanced features."
+    }
+  ]
+}

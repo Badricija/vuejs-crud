@@ -1,0 +1,19 @@
+@import './base.css';
+@import 'bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+body{
+    background-color: #272324;
+    color: #8D7E69;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+.card-title{ 
+    font-size: 40px;
+    text-decoration: none;
+}
+.btn {
+  box-shadow: 2px 2px 10px rgba(252, 246, 246, 0.685);
+  margin: 5px;
+}
